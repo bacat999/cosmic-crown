@@ -1,0 +1,133 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "bCsc1XteK_5AAtZBlHo99"
+uri = "file://screenshots/cosmic-royalty-badge-collection.jpg"
+type = "image"
+title = "Cosmic Royalty Badge Collection"
+description = "Contact sheet preview of all 12 original Cosmic Royalty seat badges, ordered from Crown Seat through Cosmic Supporter."
+
+[[outputs]]
+id = "udR7ak3AC1NCCtikiXhSP"
+uri = "file://attached_assets/generated_images/cosmic-royalty-crown-seat.png"
+type = "image"
+title = "Crown Seat — Download PNG"
+description = "Transparent 1024×1024 PNG copy of the Crown Seat badge."
+
+[[outputs]]
+id = "mcmPXL8kygnpYEpYXdO_Q"
+uri = "file://attached_assets/generated_images/cosmic-royalty-cosmic-crown-artist.png"
+type = "image"
+title = "Cosmic Crown Artist — Download PNG"
+description = "Transparent 1024×1024 PNG copy of the Cosmic Crown Artist badge."
+
+[[outputs]]
+id = "3EqBPIdk749fftH4SkstP"
+uri = "file://attached_assets/generated_images/cosmic-royalty-elite-patron.png"
+type = "image"
+title = "Elite Patron — Download PNG"
+description = "Transparent 1024×1024 PNG copy of the Elite Patron badge."
+
+[[outputs]]
+id = "sfureQFAl-jPOlajTKsvc"
+uri = "file://attached_assets/generated_images/cosmic-royalty-grand-patron.png"
+type = "image"
+title = "Grand Patron — Download PNG"
+description = "Transparent 1024×1024 PNG copy of the Grand Patron badge."
+
+[[outputs]]
+id = "lbsMtRyBKMna3jm7UciTB"
+uri = "file://attached_assets/generated_images/cosmic-royalty-champion-supporter.png"
+type = "image"
+title = "Champion Supporter — Download PNG"
+description = "Transparent 1024×1024 PNG copy of the Champion Supporter badge."
+
+[[outputs]]
+id = "_jTMuxTwfRPfc-mEnQAyh"
+uri = "file://attached_assets/generated_images/cosmic-royalty-super-supporter.png"
+type = "image"
+title = "Super Supporter — Download PNG"
+description = "Transparent 1024×1024 PNG copy of the Super Supporter badge."
+
+[[outputs]]
+id = "GeNQ3xiTbBDTSzcXLN2Pl"
+uri = "file://attached_assets/generated_images/cosmic-royalty-stellar-supporter.png"
+type = "image"
+title = "Stellar Supporter — Download PNG"
+description = "Transparent 1024×1024 PNG copy of the Stellar Supporter badge."
+
+[[outputs]]
+id = "H995Fsdv8k9VU2e8ZIveY"
+uri = "file://attached_assets/generated_images/cosmic-royalty-royal-supporter.png"
+type = "image"
+title = "Royal Supporter — Download PNG"
+description = "Transparent 1024×1024 PNG copy of the Royal Supporter badge."
+
+[[outputs]]
+id = "c1bOVzzIjBsZJAI4RFYBz"
+uri = "file://attached_assets/generated_images/cosmic-royalty-cosmic-plus.png"
+type = "image"
+title = "Cosmic Plus — Download PNG"
+description = "Transparent 1024×1024 PNG copy of the Cosmic Plus badge."
+
+[[outputs]]
+id = "a_zKFR1i2AU6fgbQ_o2ky"
+uri = "file://attached_assets/generated_images/cosmic-royalty-nova-fan.png"
+type = "image"
+title = "Nova Fan — Download PNG"
+description = "Transparent 1024×1024 PNG copy of the Nova Fan badge."
+
+[[outputs]]
+id = "TsppUngA16zbHxwaQkC66"
+uri = "file://attached_assets/generated_images/cosmic-royalty-rising-fan.png"
+type = "image"
+title = "Rising Fan — Download PNG"
+description = "Transparent 1024×1024 PNG copy of the Rising Fan badge."
+
+[[outputs]]
+id = "ep29RQY5mVSVOmhLVBLYo"
+uri = "file://attached_assets/generated_images/cosmic-royalty-cosmic-supporter.png"
+type = "image"
+title = "Cosmic Supporter — Download PNG"
+description = "Transparent 1024×1024 PNG copy of the Cosmic Supporter badge."
+
+[[outputs]]
+id = "WKJFcjIqbnEou42zSRDkm"
+uri = "file://artifacts/task888-cosmic-promo/public/audio/bg_music.mp3"
+type = "audio"
+title = "cinematic instrumental background music"
+description = "Generated music: Cinematic future-soul instrumental background music for a majestic and uplifting brand film. Warm analog synth pads, restrained orchestral strings, deep rounded bass, delicate celest…"
+
+[[outputs]]
+id = "mKdaYS1hMBCMaqSYkw6gS"
+uri = "file://.local/outputs/WE-ON-TASK-888-Cosmic-Royalty-Deck.pptx"
+type = "slides"
+title = "WE ON TASK 888 Cosmic Royalty Deck (PPTX)"
+description = "Editable PowerPoint export of the updated deck using ontask888.shop wording."
+
+[[outputs]]
+id = "LZ_XxztWJEduwEYO9t9Te"
+uri = "file://.local/outputs/WE-ON-TASK-888-Cosmic-Royalty-Deck.pdf"
+type = "pdf"
+title = "WE ON TASK 888 Cosmic Royalty Deck (PDF)"
+description = "Share-ready PDF export of the updated deck using ontask888.shop wording."
+
+[[outputs]]
+id = "fz1G5YiBSaTQuYlt0Xz8U"
+uri = "file://Crown-Point-Stage-Aug-30-00-24-27.mp4"
+type = "video"
+title = "WE ON TASK 888 Cosmic Royalty Promo (MP4)"
+description = "27-second 1920×1080 promotional video with cinematic music and Aunty V artwork."
+
+[[outputs]]
+id = "2NwxhDJ2hrju49N_W2jM_"
+uri = "file://.local/outputs/WE-ON-T-A-S-K--888---Cosmic-Royalty-Deck.pdf"
+type = "pdf"
+title = "WE ON T.A.S.K. 888 — Cosmic Royalty Deck.pdf"
+
+[[outputs]]
+id = "Ttzx6wMnfigQOEdj1A59H"
+uri = "file://.local/outputs/WE-ON-T-A-S-K--888---Cosmic-Royalty-Deck.pptx"
+type = "slides"
+title = "WE ON T.A.S.K. 888 — Cosmic Royalty Deck.pptx"

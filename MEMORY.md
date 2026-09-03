@@ -1,0 +1,12 @@
+- [Session store vs esbuild bundle](session-store-bundling.md) — libraries reading files from their package dir (e.g. connect-pg-simple table.sql) break in the bundled API server; provision in runMigrations().
+- [Cosmic Royalty badge artwork](cosmic-royalty-badges.md) — the current raster badge collection is approved as-is for digital use; vectors are optional future reinterpretations.
+- [Managed App Storage uploads](managed-app-storage-uploads.md) — verify and publish to stable keys; keep deletion work durable until App Storage confirms it.
+- [Publishing domain](publishing-domain.md) — the purchased Replit app domain is ontask888.app.
+- [Chargeback Crown Clef policy](chargeback-crown-clef-policy.md) — confirmed chargebacks must revoke the disputed purchase’s remaining Crown Clefs without silently changing votes already cast.
+- [Shopify store binding](shopify-store-binding.md) — verify the connector is bound to ontask888.myshopify.com before trusting catalog reads; provisioned stores may be empty.
+- [Stripe and Shopify payment boundary](stripe-shopify-payment-boundary.md) — Stripe onboarding is for app payments; Shopify remains the separate physical-store domain and checkout authority.
+- [Referral commission policy](referral-commission-policy.md) — first-touch referrals earn 15% on eligible Shopify sales; $1,000 cumulative sales permanently unlocks 20% for future orders.
+- [Aunty V character role](aunty-v-character-role.md) — Aunty V watches over the Cosmic Universe and monitors artist auditions from a futuristic screen.
+- [Video artifact registration](video-artifact-registration.md) — preserve the managed artifact manifest when delegating video edits; legacy replacement can remove routed workflows.
+- [Music work packaging](music-work-packaging.md) — each song pairs instrumental and original/reference audio; lyrics are optional and ZIPs hold complete stems/session files.
+- [Resend domain verification](resend-domain-verification.md) — the send-only connector cannot manage domains; the verified sender must belong to its connected Resend workspace.
