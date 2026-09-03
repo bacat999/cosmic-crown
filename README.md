@@ -1,22 +1,16 @@
 # cosmic-crown
- Digital art initiative and project files
-# cosmic-crown
 
-Digital art initiative and project files.
+Digital art initiative, independent journal, and secure asset repository.
 
 ## Overview
 
-**cosmic-crown** is a digital art and community-focused initiative exploring modern creative expression, digital assets, and interactive frameworks.
+**cosmic-crown** is an independent project framework designed to securely store, version-control, and document digital art collections, project files, and personal logs.
 
-## Features
+## Repository Structure & Security
 
-* **Digital Art Initiatives:** Showcases high-resolution digital media, negatives, and thematic collections.
-* **Community & Access:** Integrates verification and gating concepts for digital spaces.
-* **Project Structure:** Organized to house project assets, code, documentation, and configuration files.
+* **`/journal/`** - Dedicated directory for independent text entries, reflections, and project notes.
+* **`/assets/`** - Secure storage for high-resolution digital files, photo negatives, and media assets.
+* **`/code/`** - Core application logic, scripts, and configuration files.
 
-## Repository Structure
-
-```text
-├── assets/         # Visual graphics, branding, and media files
-├── docs/           # Documentation and project frameworks
-└── README.md       # Project overview and instructions
+## Privacy & Protection
+All intellectual property, project files, and personal logs are safely tracked and version-controlled.
